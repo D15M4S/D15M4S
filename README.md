@@ -14,7 +14,6 @@ company: ezCaretech · AI Team (2024.12 ~)
 focus: [LLM Serving, Inference Infra, Agent Workload]
 now:
   - Benchmarking local LLM serving with vLLM
-  - Daily algorithm practice → codetree-TILs
 certs:
   CKA: The Linux Foundation · 2026.05 (~2028.05)
   빅데이터분석기사: Bigdata Analysis Engineer · Korea Data Agency · 2026.07
