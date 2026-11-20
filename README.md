@@ -30,6 +30,6 @@ education: B.S. Computer Engineering (Big Data Track) · Hansung University
   <img src="https://img.shields.io/badge/Python-57606a?style=flat-square&labelColor=57606a&color=57606a&logoColor=white&logo=python"/>
   <img src="https://img.shields.io/badge/Kubernetes-57606a?style=flat-square&labelColor=57606a&color=57606a&logoColor=white&logo=kubernetes"/>
   <img src="https://img.shields.io/badge/Docker-57606a?style=flat-square&labelColor=57606a&color=57606a&logoColor=white&logo=docker"/>
-  <img src="https://img.shields.io/badge/vLLM-57606a?style=flat-square&labelColor=57606a&color=57606a&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vLLM-57606a?style=flat-square&labelColor=57606a&color=57606a&logoColor=white&logo=vllm"/>
   <a href="https://www.credly.com/badges/29458e4e-3319-45d6-bcc9-c375d8b284b3/public_url"><img src="https://img.shields.io/badge/CKA-Certified-326CE5?style=flat-square&labelColor=57606a&logo=kubernetes&logoColor=white"/></a>
 </p>
